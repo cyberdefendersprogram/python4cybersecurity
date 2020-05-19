@@ -1,4 +1,4 @@
-# 3. Python Data Science - Security Data Analysis
+# 4. Python Data Science - Security Data Analysis
 
 In this section, we are going to concentrate on the data science programming aspect of Python, which will be necessary to understand the role of machine learning in cyber security. Let’s first try to understand how data science and cybersecurity are related.
 
