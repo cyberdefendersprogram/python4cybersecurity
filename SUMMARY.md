@@ -7,4 +7,5 @@
 * [4. Python Data Science - Security Data Analysis](python-data-science-security-data-analysis/README.md)
   * [4.1 Unsupervised Learning](python-data-science-security-data-analysis/4.1-unsupervised-learning.md)
 * [5. Network Management](4.-network-management.md)
+* [6. Beautiful Python](6.-beautiful-python.md)
 
